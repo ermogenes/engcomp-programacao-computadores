@@ -1,0 +1,1 @@
+cscript diga.vbs hello there
